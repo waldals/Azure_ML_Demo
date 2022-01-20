@@ -16,20 +16,23 @@ Azure_ML_Demo
 │   readme.md                                 this readme
 │   requirements.txt                          .txt file for setting up conda 
 │   PySpark_SQL_Cheat_Sheet_Python.pdf        reference document for writing in pyspark
-│   
-└───data				folder for data files
-│	│	└ avocado.csv 			.csv file of data for this demo
+│ 
+azure_ML_studio				folder for Azure_ML screenshots
+│	└─── tbd 			    ....tbd
+│  
+└───data				    folder for data files
+│	└─── avocado.csv 	    .csv file of data for this demo
 │
-└───notebooks				folder for different file types to run code
-│	│	└ Azure_ML.dbc 			.dbc file for use in DataBricks
-│	│	└ Azure_ML_html.zip 			.zip file to view code in HTML/browser
-│	│	└ Azure_ML_python.zip 			.zip file for use in IDE (i.e. Jupyter)
+└───notebooks				    folder for different file types to run code
+│	└─── Azure_ML.dbc 			.dbc file for use in DataBricks
+│	└─── Azure_ML_html.zip 		.zip file to view code in HTML/browser
+│	└─── Azure_ML_python.zip 	.zip file for use in IDE (i.e. Jupyter)
 │
-└───includes			folder containing supplemental notebooks to run Avocados
-│	└─── configuration			notebook to configure packages 
-│	└─── main			general tasks folder
-│	│	└─── python			folder containing supplemental functions to run Avocados
-│	│	│	└ operations			notebook containing supporting functions to run model, predictions, and view results
+└───includes			    folder containing supplemental notebooks to run Avocados
+│	└─── configuration		notebook to configure packages 
+│	└─── main			    general tasks folder
+│		└─── python			folder containing supplemental functions to run Avocados
+│			└ operations	notebook containing supporting functions to run model, predictions, and view results
 ```
 
 ## Summary
