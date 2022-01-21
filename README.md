@@ -17,8 +17,8 @@ Azure_ML_Demo
 │   requirements.txt                          .txt file for setting up conda 
 │   PySpark_SQL_Cheat_Sheet_Python.pdf        reference document for writing in pyspark
 │ 
-azure_ML_studio				folder for Azure_ML screenshots
-│	└─── tbd 			    ....tbd
+azure_ML_studio				                            folder for Azure_ML screenshots
+│	└─── Azure_ML_Studio_Avocados.ipynb 			    markdown file on how to run demo in Azure ML studio
 │  
 └───data				    folder for data files
 │	└─── avocado.csv 	    .csv file of data for this demo
